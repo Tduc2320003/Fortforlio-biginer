@@ -706,3 +706,6 @@ ul {
     font-size: 2em;
     margin: 0% 1%;
 }
+a {
+    padding: 8px;
+}
